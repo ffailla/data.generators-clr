@@ -11,8 +11,8 @@ This is a direct port to clojure-clr of [data.generators](https://github.com/clo
 Developer Information
 ========================================
 
-* [GitHub project](https://github.com/ffailla/data.generators-clr)
-* [GitHub project](https://github.com/clojure/data.generators)
+* [data.generators-clr GitHub project](https://github.com/ffailla/data.generators-clr)
+* [data.generators GitHub project](https://github.com/clojure/data.generators)
 
 Change Log
 ====================
